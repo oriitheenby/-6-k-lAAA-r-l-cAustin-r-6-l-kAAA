@@ -12,23 +12,23 @@
 Linux:
 ```sh
 cd ~/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 MacOS:
 ```sh
 cd ~/Library/Application\ Support/minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 Windows (Powershell, git (probably) not pre-installed):
 ```powershell
 cd ~/Appdata/Roaming/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ .\§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ .\§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 
 Windows (WSL):
 ```sh
 cd /mnt/c/Users/{YOUR-USERNAME-HERE}/Appdata/Roaming/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 
 Universal:
