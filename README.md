@@ -12,29 +12,33 @@
 Linux:
 ```sh
 cd ~/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 MacOS:
 ```sh
 cd ~/Library/Application\ Support/minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 Windows (Powershell, git (probably) not pre-installed):
 ```powershell
 cd ~/Appdata/Roaming/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ .\§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ .\§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 
 Windows (WSL):
 ```sh
 cd /mnt/c/Users/{YOUR-USERNAME-HERE}/Appdata/Roaming/.minecraft/resourcepacks
-git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§lkAAA
+git clone https://github.com/100PercentANerd/-6-k-lAAA-r-l-cAustin-r-6-l-kAAA/ ./§6§k§lAAA§r§l§cAustin§r§6§l§kAAA
 ```
 
 Universal:
 Download latest Release (go to releases on the side bar) as a zip
 Go to the correct ```minecraft/resourcepacks```
 Move the pack
+
+OR 
+
+Or the github page, at the top click on ```Code``` then ```Download as ZIP``` (This method may result in a broken pack and the incorrect folder name)
 ---
 ## KEEPING UP TO DATE
 
@@ -53,4 +57,4 @@ If you're on Windows run ```update.bat``` if you're on MacOS, Linux or anything 
 
 ### Reinstall from ```RELEASES```
 ---
-Go to releases and do the same this as in ```Universal install```
+See ```Universal Install```.
