@@ -38,6 +38,9 @@ Move the pack
 ---
 ## KEEPING UP TO DATE
 
+### From ```update``` file
+---
+
 > [!IMPORTANT]
 > Git must be installed.
 
@@ -47,3 +50,7 @@ If you're on Windows run ```update.bat``` if you're on MacOS, Linux or anything 
 
 > [!TIP]
 > The folder (probably) needs to be unzipped for you to run the ```update``` file.
+
+### Reinstall from ```RELEASES```
+---
+Go to releases and do the same this as in ```Universal install```
