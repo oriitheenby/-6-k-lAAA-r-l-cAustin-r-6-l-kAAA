@@ -35,3 +35,15 @@ Universal:
 Download latest Release (go to releases on the side bar) as a zip
 Go to the correct ```minecraft/resourcepacks```
 Move the pack
+---
+## KEEPING UP TO DATE
+
+> [!IMPORTANT]
+> Git must be installed.
+
+This pack will have two update files
+```update.sh``` and ```update.bat```
+If you're on Windows run ```update.bat``` if you're on MacOS, Linux or anything else using the bash/zsh/etc terminal, run ```update.sh```
+
+> [!TIP]
+> The folder (probably) needs to be unzipped for you to run the ```update``` file.
